@@ -1,99 +1,27 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmFjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> Hello World, I'm Amal Prasad Trivedi
+# 💫 About Me:
+🔭 I’m currently working on<br>Advanced AI & ML projects including Explainable AI (XAI) for medical imaging, Research Paper Analyzer Pro, Micro-Doppler Based Target Classification, and secure AI-driven systems using FastAPI, Streamlit, and Deep Learning.<br><br>🤝 I’m looking to collaborate on<br><br>AI/ML research projects, Explainable AI, Computer Vision, Healthcare AI, Defense & Security AI, and innovative open-source projects with real-world impact.<br>🛠️ I’m looking for help with<br>Improving model optimization, large-scale deployment, MLOps, advanced XAI techniques, and publishing high-quality research papers in AI/ML domains.<br><br>🌱 I’m currently learning<br>Explainable AI (XAI), Transformers, Advanced Deep Learning, FastAPI-based AI systems, and preparing for GATE AI with a strong focus on fundamentals.<br><br>💬 Ask me about<br><br>Machine Learning, Deep Learning, Explainable AI, Streamlit apps, FastAPI backends, AI research projects, and end-to-end AI system development.<br><br>⚡ Fun fact<br>I enjoy turning complex AI concepts into real-world intelligent systems—and I treat every project like a research paper in the making 🚀
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20%26%20ML%20Engineer&fontSize=70&animation=fadeIn" />
-</p>
 
-## 💫 About Me
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p align="left">
-        🔭 <b>Currently working on:</b> Advanced AI & ML projects including <i>Explainable AI (XAI)</i> for medical imaging, Research Paper Analyzer Pro, and Micro-Doppler Target Classification.<br>
-        🤝 <b>Looking to collaborate:</b> Healthcare AI, Defense & Security systems, and Computer Vision research.<br>
-        🌱 <b>Learning:</b> Mastering Transformers, Advanced Deep Learning, and preparing for GATE AI.<br>
-        💬 <b>Ask me about:</b> FastAPI, Streamlit, XAI, and building end-to-end AI lifecycles.<br>
-        ⚡ <b>Fun Fact:</b> I treat every codebase like a research paper—documented, peer-reviewed (by me), and ready for impact!
-      </p>
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalprasadtrivedi&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amaltrivedi_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amalprasadtrivedi-aiml-engineer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaltrivedi3904stella@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amalprasadtrivedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amalprasadtrivedi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalprasadtrivedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Tech Stack & Skills
-<details open>
-  <summary><b>🚀 Core AI & Machine Learning</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</details>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amalprasadtrivedi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<details>
-  <summary><b>🌐 Backend & Web Deployment</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</details>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<details>
-  <summary><b>⚙️ Tools & DevOps</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=mlflow&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-</details>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amalprasadtrivedi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=amalprasadtrivedi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 Analytics & Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalprasadtrivedi&show_icons=true&theme=radical" alt="Amal's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amalprasadtrivedi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalprasadtrivedi&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏗️ Top Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=amalprasadtrivedi&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 🌐 Connect with me:
-<p align="center">
-  <a href="https://linkedin.com/in/amalprasadtrivedi-aiml-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amal Prasad Trivedi" height="30" width="40" /></a>
-  <a href="https://instagram.com/amaltrivedi_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amaltrivedi_21" height="30" width="40" /></a>
-  <a href="mailto:amaltrivedi3904stella@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="30" /></a>
-</p>
-
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amalprasadtrivedi&icon=5&color=12" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
